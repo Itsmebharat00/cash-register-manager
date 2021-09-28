@@ -1,0 +1,38 @@
+*{
+    
+}
+
+
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin: auto;
+
+}
+
+input {
+    width: 60%;
+    padding: 1rem;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 2.5px solid red;
+    border-radius: 5px;
+}
+
+label {
+    font-size: larger;
+}
+
+button{
+    width: 10%;
+    border: 2.5px solid red;
+    border-radius: 5px;
+    
+}
+
+.change table{
+    align-items: center;
+}
